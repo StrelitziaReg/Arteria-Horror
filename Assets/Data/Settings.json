@@ -1,0 +1,22 @@
+{
+  "settings_pc": {
+    "general": {
+      "pp_ambientocc": "False",
+      "pp_bloom": "False",
+      "pp_motionblur": "False",
+      "pp_filmgrain": "False",
+      "game_volume": "1",
+      "invert_look": "False",
+      "mouse_sensitivity": "2"
+    },
+    "graphic": {
+      "game_shadowquality": "1",
+      "game_resolution": "0",
+      "game_vsync": "True",
+      "game_texquality": "1",
+      "game_shadowdist": "89",
+      "game_fullscreen": "2",
+      "game_antialising": "1"
+    }
+  }
+}
