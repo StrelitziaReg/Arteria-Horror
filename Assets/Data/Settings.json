@@ -16,7 +16,7 @@
       "game_texquality": "1",
       "game_shadowdist": "64",
       "game_fullscreen": "2",
-      "game_antialising": "1"
+      "game_antialising": "2"
     }
   }
 }
